@@ -1,0 +1,3 @@
+NODE untitled_pipe_6036_0
+SQL >
+    SELECT * FROM analytics_sessions_mv
